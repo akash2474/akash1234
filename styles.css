@@ -1,0 +1,22 @@
+.uri{border-color: red;
+border: solid;
+border-width: 1px;
+
+
+}
+.movie{border-color: red;
+border: solid;
+border-width: 1px;
+
+
+}
+.similar{
+  border-color: red;
+  border: solid;
+  border-width: 1px;
+}
+h1{color: 	#00008B;}
+h2{color: 	#00008B;}
+h3{color: 	#00008B;}
+body{background-color: 	#00FFFF;}
+p{font-family: 'Montserrat', sans-serif;}
